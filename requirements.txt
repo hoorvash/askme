@@ -5,3 +5,7 @@ langchainhub
 chromadb
 langchain
 python-dotenv
+requests
+bs4
+javalang
+tree_sitter
